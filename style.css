@@ -1,10 +1,11 @@
 :root {
   --primary-color: #6d758b;
-  --bg-color: #1d1d1d;
-  --light-bg-color: #272727;
-  --text-color: #ffffff;
-  --light-text-color: #ffffff;
-  --primary-text-color: #fff;
+  --bg-color: #ffffff;
+  --light-bg-color: #548190;
+  --text-color: #000000;
+  font-weight: bold;
+  --light-text-color: #000000;
+  --primary-text-color: #000;
 }
 ::-webkit-scrollbar {
   width: 5px;
